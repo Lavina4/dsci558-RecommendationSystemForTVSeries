@@ -14,7 +14,7 @@ class ImdbPipeline:
     def process_item(self, item, spider):
         adapter = ItemAdapter(item)
         if isinstance(item, TVSeriesItem):
-            adapter['title'] = adapter['title']
+            adapter['title'] = adapter['title'][0]
             adapter['imdb_rating'] = float(adapter['imdb_rating'][0]) if adapter['imdb_rating'][0] != 'NA' else 'NA'
             adapter['plot'] = adapter['plot'][0].strip()
             adapter['genre'] = adapter['genre']
