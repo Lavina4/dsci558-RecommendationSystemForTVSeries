@@ -15,7 +15,7 @@ class RottenPipeline:
 
 class JsonWriterPipeline:
     def open_spider(self, spider):
-        self.file = open('tvshows.jsonl', 'w')
+        self.file = open('rotten_tvshows.jsonl', 'w')
 
     def close_spider(self, spider):
         self.file.close()
