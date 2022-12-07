@@ -1,0 +1,480 @@
+network_id,name
+0,Nickelodeon Latin America
+1,The CW
+2,Fox
+3,Deutscher Fernsehfunk
+4,Federalna televizija
+5,PBS Kids
+6,NHK
+7,TV Nova
+8,Starz
+9,MBC Group
+10,RÚV
+11,TDCC
+12,SundanceTV
+13,DTAGDAB
+14,TNT
+15,W
+16,ICTV
+17,Disney Junior
+18,Nat Geo Wild
+19,SKYWITN
+20,Sender Freies Berlin
+21,CBC Television
+22,Mega
+23,ID
+24,USA Network
+25,VICE TV
+26,France 2
+27,La 1
+28,Colors TV
+29,Yle TV2
+30,Fusion
+31,tvN
+32,REN TV
+33,MTV Germany
+34,Fox Broadcasting Company
+35,UP
+36,Ion Television
+37,Radio Television of Croatia
+38,Sky One
+39,British Broadcasting Company Limited
+40,Rai 2
+41,The Rotten Tomatoes Channel
+42,FXX
+43,SKY
+44,Fox (Italy)
+45,RTL 4
+46,HereTV
+47,Canal 8
+48,WABC-TV
+49,CBS
+50,FUSION
+51,NDR Fernsehen
+52,RTV Pink
+53,Kids' WB
+54,Korean Broadcasting System
+55,M6
+56,E4
+57,NHK Radio 1
+58,Food Network Canada
+59,SKYREP
+60,Audience Network
+61,SKYCPSD
+62,Discovery+
+63,AB3
+64,Norddeutscher Rundfunk
+65,FOXTEL
+66,TNTLC
+67,TBS Television
+68,RTV Studio B
+69,TV-6
+70,TVONE
+71,Bravo
+72,Sony Entertainment Television
+73,iTunes
+74,1+1
+75,TV Land
+76,IPLAYER
+77,CNBC
+78,YTV
+79,Telecinco
+80,Three
+81,Domashny
+82,Fox Sports 1
+83,Channel 8
+84,CCTV-10
+85,ITV Yorkshire
+86,Schweizer Fernsehen
+87,GOLDE
+88,MTV Spain
+89,ABC Kids
+90,Fox News
+91,Kanal D
+92,NRK1
+93,Munhwa Broadcasting Corporation
+94,Nickelodeon
+95,G4
+96,SWR Fernsehen
+97,Rai Yoyo
+98,RecordTV
+99,Kanal 5
+100,Food Network
+101,Univision
+102,Fuji Television
+103,Telesistema Mexicano
+104,GMA Network
+105,DR Ramasjang
+106,TVP1
+107,DD National
+108,BBC Three
+109,TFX
+110,RCTV
+111,ARTEFRC
+112,NHK General TV
+113,SBS 6
+114,Television New Zealand
+115,broadcast syndication
+116,SKYCN1
+117,ANIME
+118,Korea Educational Broadcasting System
+119,TV Vijesti
+120,BBC Two
+121,Canale 5
+122,Prva Srpska Televizija
+123,TF1
+124,Cooking Channel
+125,MyNetworkTV
+126,TMXJP
+127,WDR Fernsehen
+128,FX
+129,STZE
+130,Spectrum
+131,STB
+132,TV 2 Danmark
+133,ProSieben
+134,RTL II
+135,OWN
+136,XEW
+137,Télétoon
+138,SBS TV
+139,Sveriges Television
+140,BET+
+141,Vizion Plus
+142,Rai 1
+143,Fox Deportes
+144,HBO
+145,Seoul Broadcasting System
+146,OUTtv
+147,Ketnet
+148,RTL Televizija
+149,Caracol Televisión
+150,Extreme Sports Channel
+151,BBC2HD
+152,Acorn TV
+153,Telefe
+154,VOX
+155,Disney+
+156,Star Plus
+157,ABC Australia
+158,Hot
+159,Zhejiang Television
+160,La 2
+161,Shudder
+162,Oxygen
+163,Network 10
+164,Prime Video
+165,Animal Planet
+166,TTV Main Channel
+167,TruTV
+168,Toon Disney
+169,Canal+
+170,Nova TV
+171,Nelonen
+172,ZDF
+173,Mediaset
+174,Rai Gulp
+175,AB1
+176,SVT1
+177,ABXplore
+178,Peacock
+179,TV Barrandov
+180,Peretz
+181,A&E
+182,SKYATHD
+183,Taiwan Television
+184,Spike TV
+185,Canal 9 (Buenos Aires)
+186,Nippon Television
+187,TV2
+188,Polsat
+189,CBC Television Co.
+190,Sky Deutschland
+191,Amazon Prime Video
+192,MAX
+193,KRON-TV
+194,SPMAX
+195,Fox Life
+196,ANTENA3
+197,BBC iPlayer
+198,Rede Manchete
+199,Nick at Nite
+200,Westdeutscher Rundfunk
+201,ITV2
+202,IFC
+203,Canal 1
+204,The WB
+205,ARD
+206,Star (Disney+)
+207,Antenne 2
+208,El trece
+209,ABC
+210,SRF 1
+211,KBS 1TV
+212,Italia 1
+213,TNT Sports
+214,Das Erste
+215,CTV Television Network
+216,TV-am
+217,FOX8
+218,Soviet Central Television
+219,RTL9
+220,HBOHDB
+221,Mainichi Broadcasting System
+222,Boomerang
+223,Fininvest
+224,MOVIHD
+225,Entertainment Squad
+226,Latina Televisión
+227,SonyLIV
+228,NINE
+229,WWE Network
+230,VISION
+231,VH1
+232,Lifetime
+233,Challenge
+234,TV6
+235,JTBC
+236,Sport1
+237,RAIUNO
+238,Comedy Central
+239,CBBC
+240,CBeebies
+241,Discovery Channel
+242,National Geographic
+243,Netflix
+244,The Sports Network
+245,Carousel
+246,Hallmark Channel
+247,Angel Studios
+248,COMCCE
+249,FUJIJP
+250,10 Peach
+251,TV Globo
+252,Katholieke Radio Omroep
+253,TBS Holdings
+254,Paramount Network
+255,A1 TV channel
+256,Prime Time Entertainment Network
+257,América Television
+258,MULTI
+259,CITV
+260,BBC
+261,MBCKR
+262,Neox
+263,Channel 5 (Mexico)
+264,TVA Sports
+265,WWE
+266,QUBO
+267,Showtime
+268,WOWOW
+269,Nickelodeon UK and Ireland
+270,Smithsonian Channel
+271,Disney XD
+272,CITYDT
+273,Bayerischer Rundfunk
+274,TV 2 Direkte
+275,Stan
+276,WE
+277,TVA
+278,Telefe (Buenos Aires)
+279,HBO Max
+280,Disney Channel Italy
+281,History
+282,Télé-Québec
+283,CNN
+284,NewsNation
+285,Qubo
+286,AMC+
+287,Televisión Española
+288,Univisión Communications
+289,London Weekend Television
+290,Special Broadcasting Service
+291,CHILLER
+292,TMC
+293,Nicktoons
+294,Family Channel
+295,E!
+296,EPIX2HD
+297,VIVA Germany
+298,NRJ 12
+299,Mitteldeutscher Rundfunk
+300,BBC HD
+301,DMAX
+302,STARZ
+303,Cool TV
+304,TVTJP
+305,Telemundo
+306,Quibi
+307,НТН
+308,NIPPJP
+309,CANALPL
+310,W Network
+311,Sky Italia
+312,Associated-Rediffusion
+313,RTL Zwei
+314,RTBF
+315,BBC America
+316,ORF 1
+317,Sat.1
+318,B92
+319,2×2
+320,Sub
+321,YLE2
+322,AXSTV
+323,The Roku Channel
+324,Bounce
+325,Sky Max
+326,Flemish Radio and Television Broadcasting Organization
+327,Syfy
+328,MBSTVJP
+329,Cinemax
+330,REELZ
+331,The Nashville Network
+332,DirecTV
+333,OVATION
+334,EPIX
+335,TIPIK
+336,DR
+337,PBS
+338,C1RWN
+339,Fox Sports Asia
+340,France 3
+341,truTV
+342,Fox Kids
+343,RCN TV
+344,Hum TV
+345,HBO Asia
+346,ESPN2
+347,list of Disney Junior TV channels
+348,STS
+349,USA
+350,Nine
+351,Apple TV+
+352,ABS-CBN Corporation
+353,Match! Nash Sport
+354,DHC
+355,kykNET
+356,CTV Comedy Channel
+357,TVNZ 1
+358,Canal 13
+359,Cartoon Network
+360,KiKa
+361,Nickelodeon Germany
+362,DR1
+363,Paramount Media Networks
+364,ICI Radio-Canada Télé
+365,1st channel Ostankino
+366,Teletoon
+367,Seven Network
+368,VTM
+369,Star TV
+370,FIBE1
+371,TV Asahi
+372,MTV Latin America
+373,GTV
+374,The Online Network
+375,TV JOJ
+376,Showcase
+377,American Broadcasting Company
+378,BBC Radio 4
+379,Freeform
+380,C8
+381,Show TV
+382,Antena 3
+383,Canvas
+384,MTV2
+385,Science Channel
+386,KRTVN
+387,UPN
+388,Arte
+389,Super Casino
+390,DFC
+391,MTV3
+392,WRC-TV
+393,ALIBI
+394,L'Équipe
+395,AXS TV
+396,Crave
+397,BET
+398,Global Television Network
+399,television networks preceding ABC Family
+400,CBC
+401,BBC One
+402,TeenNick
+403,Las Estrellas
+404,Canal A
+405,Österreichischer Rundfunk
+406,TV Tokyo
+407,DR Ultra
+408,Tele 5
+409,France 5
+410,Amazon Freevee
+411,Nick Jr.
+412,YouTube
+413,Bally Sports Sun
+414,Azteca uno
+415,SKYSHO
+416,Jetix
+417,Channel 5
+418,TV National Geographic Channel Animal in Germany
+419,EWTNMC
+420,Paramount
+421,Paramount+
+422,Super Channel
+423,Internet television
+424,Novyi Kanal
+425,Zee TV
+426,HGTV
+427,TV4
+428,KBS2
+429,TLC
+430,Inter
+431,UNI
+432,TVB Jade
+433,Discovery Family
+434,Sportsnet 360
+435,Venevisión
+436,ORF 2
+437,Tiny Living
+438,TVNZ 2
+439,NBC
+440,SYFY
+441,Muz-TV
+442,Crunchyroll
+443,RTE1
+444,GSN
+445,ITV
+446,Disney Channel
+447,SEVEN
+448,TelevenTV
+449,Raidió Teilifís Éireann
+450,Treehouse TV
+451,Hulu
+452,Syndicated
+453,Red Guaraní
+454,RTL
+455,Fox Sports Latinoamérica
+456,América TV
+457,Telewizja Polska
+458,ION
+459,ZDFGERH
+460,Telemundo Africa
+461,Sky Sports
+462,Viasat 3
+463,M1
+464,NEWSNTN
+465,TBN
+466,ESPN
+467,BR Fernsehen
+468,Current TV
+469,AMC
+470,Lifetime Movie Network
+471,Channel 4
+472,Radio Television of Serbia
+473,Česká televize
+474,Magyar Televízió
+475,MTV
+476,FRANCE3
+477,TBS
+478,CMTV
